@@ -1,4 +1,5 @@
 ## Olá!! eu sou Antonio Brito.
+Sou desenvolvedor Front-end buscando me especializar
 <div align="center">
   <a href="https://github.com/antoniodebrito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniodebrito&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
@@ -6,9 +7,9 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Antonio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Antonio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Antonio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Antonio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
   ##
