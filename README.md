@@ -1,5 +1,5 @@
 ## Olá!! eu sou Antonio Brito.
-Sou desenvolvedor Front-end buscando me especializar
+Atualmente estudando JavaScript
 <div align="center">
   <a href="https://github.com/antoniodebrito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniodebrito&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
