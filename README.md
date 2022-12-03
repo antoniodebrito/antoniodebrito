@@ -1,4 +1,4 @@
-## Olá!! eu sou Antonio Brito.
+## Olá!! 
 Atualmente estudando JavaScript
 <div align="center">
   <a href="https://github.com/antoniodebrito">
