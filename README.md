@@ -1,6 +1,6 @@
 ## Olá!! 
 
-Sou um desenvolvedor apaixonado pelo poder transformador dá tecnologia e pelo que é possível ser construído através dela. 
+Sou um desenvolvedor apaixonado pelo poder transformador dá tecnologia e pelo que é possível ser construído através dela.    
 Atuar com tecnologia é um sonho de criança, por isso tenho aproveitado a oportunidade para estudar arduamente até realizar meu sonho.
 
 Atualmente estudando JavaScript
