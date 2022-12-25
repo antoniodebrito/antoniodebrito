@@ -1,8 +1,6 @@
 ## Olá!! 
+ let's code!!
 
-Atuar com tecnologia é um sonho de criança, por isso tenho aproveitado a oportunidade para estudar arduamente até realizar esse sonho.
-
-Atualmente estudando JavaScript
 <div align="center">
   <a href="https://github.com/antoniodebrito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniodebrito&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
